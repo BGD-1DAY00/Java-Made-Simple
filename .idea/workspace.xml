@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f366db94-ceb2-46ce-a1c3-270cb246c30b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10: Async Away With Me/34: concurrency.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10: Async Away With Me/35: parallel.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10: Async Away With Me/36: virtual_threads.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1: Introduction to Programming Concepts/2: java_ecosystem.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1: Introduction to Programming Concepts/4: java_heap_memory.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1: Introduction to Programming Concepts/code/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2: Cover Our Bases/5: oop_introduction.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2: Cover Our Bases/6: data_types.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2: Cover Our Bases/7: variable_defintion.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2: Cover Our Bases/8: access_modifiers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2: Cover Our Bases/9: operators.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3: Lets Flow Things Out/10: if_statements.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3: Lets Flow Things Out/11: loops.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3: Lets Flow Things Out/12: break_continue.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3: Lets Flow Things Out/code/ForLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3: Lets Flow Things Out/code/IfStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4: Function Together/13: functions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4: Function Together/14: functions_function.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5: Object Oriented Programming/15: modularization.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5: Object Oriented Programming/16: classes_objects.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5: Object Oriented Programming/17: constructors_destructors.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5: Object Oriented Programming/18: inheritence_interfaces.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5: Object Oriented Programming/19: polymorphism.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6: Arrays &amp; Collections/20: array_examples.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6: Arrays &amp; Collections/21: collections_framework.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6: Arrays &amp; Collections/22: lists_sets_maps.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6: Arrays &amp; Collections/23: streams.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7: Exception Easy/24: catch_me_if_u_can.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7: Exception Easy/26: custom_exceptions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8: I Like Big Threads &amp; I Cannot Lie/27: threads&amp;thread_pool.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8: I Like Big Threads &amp; I Cannot Lie/28: mutlithreading.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8: I Like Big Threads &amp; I Cannot Lie/29: types_of_thread_pools.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9: A Better World/30: generics.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9: A Better World/31: lambda_expressions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9: A Better World/32: functional_interfaces.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9: A Better World/33: optionals.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Made Simple.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Who Am I? " afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2m8Z8DoMInStg1Ot3DS70a4wEB2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2: High Level Basics" />
+      <recent name="$PROJECT_DIR$/Introduction to Programming Concepts" />
+      <recent name="$PROJECT_DIR$/Introduction to Programming Concepts/Part A" />
+      <recent name="$PROJECT_DIR$/ Introduction to Programming Concepts/Part A/code" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f366db94-ceb2-46ce-a1c3-270cb246c30b" name="Changes" comment="" />
+      <created>1726460003234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726460003234</updated>
+      <workItem from="1726460004164" duration="498000" />
+      <workItem from="1726460509300" duration="14766000" />
+      <workItem from="1726627414882" duration="13423000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
